@@ -66,5 +66,5 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mai
 
 ---
 
-Espero que este README facilite a compreensão e o uso do projeto! Sinta-se à vontade para contribuir com *issues* ou *pull requests*.
+Espero que este README facilite a compreensão e o uso do projeto!
 
