@@ -1,4 +1,4 @@
-# LITERAGOOD
+# LiterAlura
 
 ## 💻 Tecnologias Utilizadas:
 - **Java**
@@ -12,7 +12,7 @@
 ---
 
 ## 💡 Sobre o Projeto
-Este projeto foi desenvolvido como parte do Challenge 2 da Alura em parceria com a Oracle, focado no consumo da API Gutendex. Através dessa API, é possível acessar uma ampla gama de dados sobre livros. O código inclui o mapeamento de entidades e o uso de JPA para criar e gerenciar um banco de dados relacional. Entre as funcionalidades, destacam-se o registro de informações na base de dados, o consumo de dados em formato JSON e a exibição de informações como livros armazenados, autores e os 10 livros mais baixados.
+Este projeto foi desenvolvido como parte do Challenge da Alura em parceria com a Oracle, focado no consumo da API Gutendex. Através dessa API, é possível acessar uma ampla gama de dados sobre livros. O código inclui o mapeamento de entidades e o uso de JPA para criar e gerenciar um banco de dados relacional. Entre as funcionalidades, destacam-se o registro de informações na base de dados, o consumo de dados em formato JSON e a exibição de informações como livros armazenados, autores e os 10 livros mais baixados.
 
 ## 🌟 Funcionalidades
 - **Consumo da API Gutendex:** Acesso a dados sobre uma grande quantidade de livros.
