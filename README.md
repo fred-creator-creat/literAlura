@@ -48,7 +48,7 @@ Durante o desenvolvimento e testes do projeto, alguns desafios foram enfrentados
 - **Caminhos de diretórios não encontrados:** Durante a configuração do ambiente, certos caminhos esperados pelo projeto não foram encontrados automaticamente pelo sistema, exigindo ajustes manuais.
 - **Limitações de hardware:** O notebook utilizado é mais antigo e possui limitações de processamento e memória, o que impacta o desempenho e dificulta a execução de ferramentas modernas.
 
-> **Nota:** Planejo realizar melhorias nesse aspecto assim que for possível adquirir um notebook mais recente, o que deverá facilitar o desenvolvimento e permitir a execução completa das funcionalidades e testes do projeto.
+- **Nota:** Planejo realizar melhorias nesse aspecto assim que for possível adquirir um notebook mais recente, o que deverá facilitar o desenvolvimento e permitir a execução completa das funcionalidades e testes do projeto.
 
 ---
 
