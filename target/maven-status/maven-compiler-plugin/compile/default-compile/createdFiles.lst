@@ -1,0 +1,14 @@
+com\literatura\challenge_2_back_literatura\config\ConvertirDatos.class
+com\literatura\challenge_2_back_literatura\dtos\Genero.class
+com\literatura\challenge_2_back_literatura\repository\iAutorRepository.class
+com\literatura\challenge_2_back_literatura\models\Libro.class
+com\literatura\challenge_2_back_literatura\Libreria\Libreria.class
+com\literatura\challenge_2_back_literatura\repository\iLibroRepository.class
+com\literatura\challenge_2_back_literatura\config\iConfig\IConvertirDatos.class
+com\literatura\challenge_2_back_literatura\models\Autor.class
+com\literatura\challenge_2_back_literatura\models\records\DatosLibro.class
+com\literatura\challenge_2_back_literatura\Challenge2BackLiteraturaApplicationConsola.class
+com\literatura\challenge_2_back_literatura\config\ConsumoApiGutendex.class
+com\literatura\challenge_2_back_literatura\models\records\Autor.class
+com\literatura\challenge_2_back_literatura\models\records\Media.class
+com\literatura\challenge_2_back_literatura\models\LibrosRespuestaApi.class

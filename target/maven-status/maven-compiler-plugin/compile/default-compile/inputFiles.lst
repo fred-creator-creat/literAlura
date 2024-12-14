@@ -1,0 +1,14 @@
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\Challenge2BackLiteraturaApplicationConsola.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\config\ConsumoApiGutendex.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\config\ConvertirDatos.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\config\iConfig\IConvertirDatos.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\dtos\Genero.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\Libreria\Libreria.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\Autor.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\Libro.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\LibrosRespuestaApi.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\records\Autor.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\records\DatosLibro.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\models\records\Media.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\repository\iAutorRepository.java
+C:\Users\Frede Cavalheiro\Documents\NetBeansProjects\challenge-2-api-consumo-back-literatura\src\main\java\com\literatura\challenge_2_back_literatura\repository\iLibroRepository.java
